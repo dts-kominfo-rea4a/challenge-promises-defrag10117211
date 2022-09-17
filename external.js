@@ -5,15 +5,15 @@ const promiseTheaterIXX = async () => {
   return new Promise((resolve) => {
     const hasilSetelahMenonton = [
       {
-        namaFilm: 'World of the married',
+        namaFilm: 'FILM A',
         hasil: 'marah',
       },
       {
-        namaFilm: 'Inside Out',
+        namaFilm: 'FILM B',
         hasil: 'tidak marah',
       },
       {
-        namaFilm: 'Nanti Kita Cerita Tentang Hari Ini',
+        namaFilm: 'FILM C',
         hasil: 'marah',
       },
     ];
@@ -28,15 +28,15 @@ const promiseTheaterVGC = async () => {
   return new Promise((resolve) => {
     const hasilSetelahMenonton = [
       {
-        namaFilm: 'KKN di Desa Penari',
+        namaFilm: 'Film VGC 1',
         hasil: 'marah',
       },
       {
-        namaFilm: 'Kukira Kau Rumah',
+        namaFilm: 'Film VGC 2',
         hasil: 'tidak marah',
       },
       {
-        namaFile: 'The Other Side',
+        namaFile: 'Film VGC 3',
         hasil: 'marah',
       },
     ];
